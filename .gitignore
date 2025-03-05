@@ -1,0 +1,13 @@
+# Ignore the virtual environment folder
+littlelemon_env/
+
+# Ignore the Django project's SQLite database
+db.sqlite3
+*.sqlite3
+
+# Ignore the Unnecessary files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
