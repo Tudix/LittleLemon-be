@@ -11,3 +11,8 @@ __pycache__/
 *.pyo
 *.pyd
 *.db
+
+# Ignore migrations
+*/migrations/*
+!*/migrations/__init__.py
+.gitignore
